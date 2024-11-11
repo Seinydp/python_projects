@@ -1,0 +1,46 @@
+{
+    "7320755475": {
+        "username": "SuS_prog",
+        "visits": 11,
+        "time_table": "every_30min"
+    },
+    "1820495829": {
+        "username": "TOXISSD",
+        "visits": 1
+    },
+    "657333871": {
+        "username": "xzneurpal"
+    },
+    "5274042433": {
+        "username": "norkulovvw",
+        "visits": 30
+    },
+    "1018488565": {
+        "username": "QE_Emik"
+    },
+    "5163458112": {
+        "username": "stillallyourmoney77"
+    },
+    "1427968968": {
+        "username": "unknown user"
+    },
+    "5046246329": {
+        "username": "unknown user",
+        "visits": 5
+    },
+    "496547518": {
+        "username": "AndreevaDM",
+        "visits": 2
+    },
+    "694732085": {
+        "username": "AliOwlM",
+        "visits": 3,
+        "time_table": "every_30min"
+    },
+    "811933667": {
+        "username": "Seinydp",
+        "visits": 3,
+        "check": "deff_timetable",
+        "time_table": "deff_timetable"
+    }
+}
